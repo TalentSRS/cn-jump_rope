@@ -1,0 +1,10 @@
+title: Our Family's Jump Rope Contest
+tags:
+ - Beginner
+ - Story
+description: Chinese children's story.
+image: jump_rope.jpg
+units:
+ - title: 我们家的跳绳比赛
+   content: cn_story.jump_rope.txt
+   stencils: cn_story.jump_rope.txt.yaml

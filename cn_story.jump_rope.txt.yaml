@@ -1,0 +1,162 @@
+- chinese: 没有。
+  english:
+  - Not in there.
+  - Not here.
+  - I don't have it.
+  type: chinese
+  comment: ! 'Covers: 没有. Cost: 0.0'
+- chinese: 我们AA吧。
+  english:
+  - Let's split it.
+  type: chinese
+  comment: ! 'Covers: 我们. Cost: 1.7284531036103928e-4'
+- chinese: 这是DVD。
+  english:
+  - This is a DVD.
+  type: chinese
+  comment: ! 'Covers: 这. Cost: 3.539381995588514e-5'
+- chinese: 这是一。
+  english:
+  - That’s the first point.
+  type: chinese
+  comment: ! 'Covers: 一. Cost: 3.539381995588514e-5'
+- chinese: 他是一个 DJ 。
+  english:
+  - He's a DJ.
+  type: chinese
+  comment: ! 'Covers: 个. Cost: 8.436127547499615e-5'
+- chinese: 他是第一个来的。
+  english:
+  - He was the first to come.
+  type: chinese
+  comment: ! 'Covers: 第一. Cost: 1.8116893822320374e-4'
+- chinese: Luke，我是你的爸爸。
+  english:
+  - Luke, I am your father.
+  type: chinese
+  comment: ! 'Covers: 爸爸. Cost: 3.539381995588514e-5'
+- chinese: 你是我妈妈。
+  english:
+  - You are my mother.
+  type: chinese
+  comment: ! 'Covers: 妈妈. Cost: 3.539381995588514e-5'
+- chinese: 我的没有你的好。
+  english:
+  - Mine is not so good as yours.
+  type: chinese
+  comment: ! 'Covers: 的. Cost: 2.522176870679669e-5'
+- chinese: 我快好了。
+  english:
+  - I'm about ready.
+  type: chinese
+  comment: ! 'Covers: 我. Cost: 0.0'
+- chinese: 她成了医生。
+  english:
+  - She became a doctor.
+  type: chinese
+  comment: ! 'Covers: 成了. Cost: 2.139586631862724e-3'
+- chinese: 他希望成为一名医生。
+  english:
+  - He wishes to become a doctor.
+  type: chinese
+  comment: ! 'Covers: 名. Cost: 3.3419109046552817e-3'
+- chinese: 我全知道。
+  english:
+  - I know all that.
+  type: chinese
+  comment: ! 'Covers: 全. Cost: 1.7050763533191015e-4'
+- chinese: 我什么都知道。
+  english:
+  - I know everything.
+  type: chinese
+  comment: ! 'Covers: 都. Cost: 1.7050763533191015e-4'
+- chinese: 我该做什么？
+  english:
+  - What should I do?
+  type: chinese
+  comment: ! 'Covers: 该. Cost: 2.741536192390044e-4'
+- chinese: 他们不知道先做什么。
+  english:
+  - They didn't know what to do first.
+  type: chinese
+  comment: ! 'Covers: 先. Cost: 2.741536192390044e-4'
+- chinese: 我开始记起来了。
+  english:
+  - I am beginning to remember it.
+  type: chinese
+  comment: ! 'Covers: 记. Cost: 1.0442119332539732e-3'
+- chinese: 我很开心你喜欢。
+  english:
+  - I'm glad you liked it.
+  type: chinese
+  comment: ! 'Covers: 开心. Cost: 7.269660797627184e-4'
+- chinese: 把我的心给你。
+  english:
+  - I give you my heart.
+  type: chinese
+  comment: ! 'Covers: 心. Cost: 2.861549643593992e-4'
+- chinese: 今天早上你在做什么？
+  english:
+  - What were you doing this morning?
+  type: chinese
+  comment: ! 'Covers: 今天. Cost: 2.741536192390044e-4'
+- chinese: 你看了比赛吗？
+  english:
+  - Did you watch the game?
+  type: chinese
+  comment: ! 'Covers: 比赛. Cost: 3.271362817035949e-4'
+- chinese: 我女儿喜欢跳绳。
+  english:
+  - My daughter loves jumping rope.
+  type: chinese
+  comment: ! 'Covers: 绳. Cost: 3.969986899043233e-3'
+- chinese: 我高兴得跳了起来。
+  english:
+  - I jumped for joy.
+  type: chinese
+  comment: ! 'Covers: 跳. Cost: 2.035581972886048e-3'
+- chinese: 我让她等了一分钟。
+  english:
+  - I asked her to wait a minute.
+  type: chinese
+  comment: ! 'Covers: 分钟. Cost: 9.861932938856016e-4'
+- chinese: 上场时,队长先上.
+  english:
+  - When a team makes its entrance, the captain leads the way.
+  type: chinese
+  comment: ! 'Covers: 上场. Cost: 1.937984496124031e-2'
+- chinese: 我和我自己来。
+  english:
+  - I come with myself.
+  type: chinese
+  comment: ! 'Covers: 和. Cost: 5.786065995868749e-4'
+- chinese: 他很快就会回家的。
+  english:
+  - He came home soon.
+  type: chinese
+  comment: ! 'Covers: 家的. Cost: 1.1085368422219513e-3'
+- chinese: 当她回来的时后，我就离开。
+  english:
+  - I'll leave when she comes back.
+  type: chinese
+  comment: ! 'Covers: 时. Cost: 1.64774506088418e-3'
+- chinese: 所以我们还是留在家中吧。
+  english:
+  - So we'd better stay home.
+  type: chinese
+  comment: ! 'Covers: 家中. Cost: 3.618075907232534e-3'
+- chinese: 一个月开两次会。
+  english:
+  - The meeting is held twice a month.
+  type: chinese
+  comment: ! 'Covers: 次. Cost: 2.7378507871321013e-3'
+- chinese: 我可以听见门砰砰作响。
+  english:
+  - I could hear doors slamming.
+  type: chinese
+  comment: ! 'Covers: 砰砰. Cost: 2.3860653781913623e-2'
+- chinese: 对于这项建议，五人投票赞成，八人反对，两人弃权。
+  english:
+  - Five members voted for the proposal, eight voted against, and two abstained.
+  type: chinese
+  comment: ! 'Covers: 弃权. Cost: 6.451612903225806e-2'
